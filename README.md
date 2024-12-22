@@ -11,4 +11,5 @@ This contains notes of SQL from basics to advanced with practical examples.
 <br>
 <h2>What are databases?</h2>
 <p>A collection of structured and related data organized to be easily accessed and managed.</p>
+Example: The way we store photos in our gallery,so the gallery is our database.
 
