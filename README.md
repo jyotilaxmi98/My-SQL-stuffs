@@ -13,7 +13,7 @@ This contains notes of SQL from basics to advanced with practical examples.
 <p>A collection of structured and related data organized to be easily accessed and managed.</p>
 Example: The way we store photos in our gallery,so the gallery is our database.
  <br>
- Types of databases:
+ <h3>Types of databases:</h3>
  <li>Relational SQL database</li>
  <li>NoSQL database</li>
  <li>Distributed Database</li>
