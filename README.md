@@ -7,7 +7,7 @@ This repo contains notes of SQL from basics to advanced with practical examples.
 <br>
 
 <h2>What is Information</h2>
-<p>Date can be translated,processed or structured into a new form called information.</p>
+<p>Data can be translated,processed or structured into a new form called information.</p>
 <br>
 <h2>What are databases?</h2>
 <p>A collection of structured and related data organized to be easily accessed and managed.</p>
