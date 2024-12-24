@@ -4,7 +4,7 @@ There are 12 SQL commands and 900 SQL keywords.
 --
 
 Most commonly used SQL commands are -
-* DDL(DATE DEFINTION LANGUAGE) : As the name suggests help in defining database like creating tables,dropping columns etc anything that chnages the database. Commands include-
+* DDL(DATE DEFINTION LANGUAGE) : As the name suggests, it helps in defining database like creating tables,dropping columns etc anything that chnages the database. Commands include-
   1. CREATE
   2. ALTER
   3. DROP 
